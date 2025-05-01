@@ -1,4 +1,4 @@
-# Images
+# Media Repository for Project Assets
 Find all images here
 
 ## DataCamp
