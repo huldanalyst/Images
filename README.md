@@ -1,5 +1,5 @@
 # Media Repository for Project Assets
-Find all images here
+This repository contains publicly accessible media files (e.g., images, documents, slides, GIFs) used across my GitHub projects. Files in this repo are referenced via direct links for embedding in READMEs, documentation, or external presentations.
 
 ## DataCamp
 
